@@ -20,10 +20,10 @@ const findKey = function(obj, callback) {
 
 //TEST
 
-// const callback = function(x) {
-//   console.log("value of x:", x, "value of x.stars:", x.stars);
-//   return x.stars === 2;
-// }
+const callback = function(x) {
+  console.log("value of x:", x, "value of x.stars:", x.stars);
+  return x.stars === 2;
+}
 
 
 // console.log(findKey({
