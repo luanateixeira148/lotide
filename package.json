@@ -14,7 +14,10 @@
     "url": "git+https://github.com/luanateixeira148/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Luana Teixeira",
+    "email": "luanateixeira148@gmail.com"
+    },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luanateixeira148/lotide/issues"
