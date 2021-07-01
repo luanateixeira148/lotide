@@ -7,3 +7,5 @@ const takeUntil = function(array, callback) {
     count++;
   }
 }
+
+module.exports = takeUntil;
